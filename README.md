@@ -1,4 +1,8 @@
-## Hi there 👋
-
--  💬 hey, i'm Muhammad Ali Kalantari
-- looking for the new world and that palace in the sun
+- live in a third world country that it's tech industry is 40 years behind time.
+- go to an interview.
+- tell the interviewer i know unreal engine pretty well.
+- asks me about Unreal's physics engine and how I have overcome its shortcomings!
+- i say that has never been a problem to me and no matter what i write, it's not going to be better than the source-available code that the absolute giant of the industry has made.
+- says: in here we right our own code and we have done it (writing their own physics engine) before.
+- i leave the interview.
+- the country is still 40 years behind time, but at least they write their own code... cute 🥹.
