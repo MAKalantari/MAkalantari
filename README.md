@@ -1,5 +1,6 @@
-- Hey, Im Muhammad Ali Kalantari (محمدعلی کلانتری).
-- i Eat Shit.
+- Hey, i am Muhammad Ali Kalantari (محمدعلی کلانتری).
+- I LIKE MONEY 🤑💸💸💰💰🤑
+- BUT I OWN 💩
 
 ## I KNOW
 - c++:<br>
